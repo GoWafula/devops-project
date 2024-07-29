@@ -8,7 +8,7 @@ image:
   repository: wafula101/devops-project
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "10151768429"
+  tag: "10152158575"
 
 ingress:
   enabled: false
